@@ -97,7 +97,3 @@ Contributions are welcome! If you'd like to improve the game, follow these steps
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE.txt).
-
----
-
-Enjoy playing Tic-Tac-Toe! Let me know if you have any questions or suggestions. 😊
