@@ -53,13 +53,19 @@ A classic Tic-Tac-Toe game built using Python and the Tkinter library for the gr
 ## Screenshots
 
 ### Game
-![Game](https://res.cloudinary.com/du0x9ut5o/image/upload/v1736841744/xe2m5ry5pyipzwtcxv7n.png)
+<p align="center">
+  <img src="https://res.cloudinary.com/du0x9ut5o/image/upload/v1736841744/xe2m5ry5pyipzwtcxv7n.png" alt="Game">
+</p>
 
 ### Win
-![Win](https://res.cloudinary.com/du0x9ut5o/image/upload/v1736841744/bmk9qalt3kvgjyvmij87.png)
+<p align="center">
+  <img src="https://res.cloudinary.com/du0x9ut5o/image/upload/v1736841744/bmk9qalt3kvgjyvmij87.png" alt="Win">
+</p>
 
 ### Tie
-![Tie](https://res.cloudinary.com/du0x9ut5o/image/upload/v1736841744/g7ibvrw2rg06sxcmkcsc.png)
+<p align="center">
+  <img src="https://res.cloudinary.com/du0x9ut5o/image/upload/v1736841744/g7ibvrw2rg06sxcmkcsc.png" alt="Tie">
+</p>
 
 ---
 
